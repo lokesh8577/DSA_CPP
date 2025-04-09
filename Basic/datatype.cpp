@@ -29,5 +29,6 @@ int main(){
 
     unsigned int a = -20;
     cout<<a<<endl;
+    cout<<3+5 / 2<<endl;
     return 0;
 }
